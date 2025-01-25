@@ -1,6 +1,6 @@
 #  Overview
-This is a codebase for the paper [Set Valued Predictions For Robust Domain Generalization](https://openreview.net/forum?id=sf9u8IR8OC&noteId=sf9u8IR8OC).
-
+#This is a codebase for the paper [Set Valued Predictions For Robust Domain Generalization](https://openreview.net/forum?id=sf9u8IR8OC&noteId=sf9u8IR8OC).
+The overview is removed for the anonymized version. 
 # Installation
 From this point, we assume you have cloned this repo, and we refer to the root directory of the cloned repo as *root*.
 
